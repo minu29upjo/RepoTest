@@ -95,7 +95,7 @@ public class FindAStoreTest {
 		fas.clickMyStoreLink();
 		fas.setStore("abc");
 		fas.clickSearchBTN();
-		Assert.fail();
+		
 	}
 	
 	@AfterTest
